@@ -20,7 +20,7 @@
 ├── crop.py              # 黄色晶格区域提取及模糊区域检测
 ├── resize.py            # 图像压缩至64×36像素
 ├── blurdivide.py        # 灰度补偿
-├── requirement.txt      # 项目依赖
+├── requirements.txt      # 项目依赖
 ├── input/               # 输入图片
 ├── output/              # 输出图片
 └── README.md
@@ -35,7 +35,7 @@
 安装项目所需依赖：
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ---
